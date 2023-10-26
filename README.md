@@ -6,6 +6,12 @@ Full Stack Software Developer
 
 I am a financial accounting graduate that transformed into a computer scientist, with a love for software development. My focus points are, Automation and Integration, Game Development, Artificial Intelligence and Web Development, essentially creating optimized user experiences using my plethora of software engineering skills. I have a wide range of experience researching and designing software programs that aim to solve real-world problems. I have developed many a program and applications, from Full Stack web applications to user focused automations and programs. I have extensive experience, research knowledge and exposure to a multitude of framework solutions such as: Angular, React, Ionic, Django, Flask, Machine Learning, UiPath and SQL just to name a few. From the skills gained building simple apps such as My Trivia App to building very complexed financial transaction tools, my catalog is endless and ever growing, and would prove valuable to any enterprise.
 
+As a highly skilled and adaptable software developer, I bring a track record of successfully delivering robust and efficient software solutions. With a strong foundation in multiple programming languages and frameworks, I'm well-equipped to tackle complex technical challenges and collaborate effectively with cross-functional teams. My expertise spans full-stack development, from front-end user interfaces to back-end server systems.
+
+I have a proven ability to design and implement scalable, maintainable, and secure software applications that meet and exceed client expectations. I'm passionate about staying up-to-date with the latest industry trends and best practices, ensuring that my code is not only functional but also future-proof. My dedication to clean code and rigorous testing enables me to produce high-quality software that stands the test of time.
+
+I thrive in dynamic environments, where I can leverage my problem-solving skills and creativity to develop innovative solutions. With a commitment to continuous learning and a strong sense of teamwork, I'm ready to contribute my technical expertise to drive your organization's success.
+
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [Coming Soon](http://www.comingsoon)
 * ✉️  You can contact me at [dfunani@live.co.za](mailto:dfunani@live.co.za)
