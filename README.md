@@ -142,7 +142,7 @@ These cards read GitHub live when the profile is opened, so commit counts, langu
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dfunani&bg_color=0c0a09&color=e7e5e4&line=22d3ee&point=22d3ee&area=true&hide_border=true&custom_title=Contribution%20graph" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/22d3ee/dfunani" alt="Contribution graph" />
 </p>
 
 ---
