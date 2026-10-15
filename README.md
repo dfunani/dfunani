@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=22D3EE&center=false&vCenter=true&width=720&height=40&lines=Delali+Funani;Senior+Software+Engineer;Compilers%2C+tooling%2C+fintech+%26+games" alt="Delali Funani" />
 </p>
 
-Cape Town · accounting graduate turned engineer. I ship fintech platforms by day, and spend nights on languages, local cloud, visual tooling, and games.
+Cape Town · accounting graduate turned software engineer. I ship fintech platforms by day, and spend nights on languages, local cloud, visual tooling, and games.
 
 <p>
   <a href="https://github.com/dfunani"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdfunani&query=%24.public_repos&label=public%20repos&logo=github&color=22d3ee&labelColor=0c0a09&logoColor=22d3ee" alt="Public repos" /></a>
