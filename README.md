@@ -1,89 +1,152 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Delali Funani
-=====================================================================================================================================
-
-Full Stack Software Developer
------------------------------
-
-I am a financial accounting graduate that transformed into a computer scientist, with a love for software development. My focus points are, Automation and Integration, Game Development, Artificial Intelligence and Web Development, essentially creating optimized user experiences using my plethora of software engineering skills. I have a wide range of experience researching and designing software programs that aim to solve real-world problems. I have developed many a program and applications, from Full Stack web applications to user focused automations and programs. I have extensive experience, research knowledge and exposure to a multitude of framework solutions such as: Angular, React, Ionic, Django, Flask, Machine Learning, UiPath and SQL just to name a few. From the skills gained building simple apps such as My Trivia App to building very complexed financial transaction tools, my catalog is endless and ever growing, and would prove valuable to any enterprise.
-
-As a highly skilled and adaptable software developer, I bring a track record of successfully delivering robust and efficient software solutions. With a strong foundation in multiple programming languages and frameworks, I'm well-equipped to tackle complex technical challenges and collaborate effectively with cross-functional teams. My expertise spans full-stack development, from front-end user interfaces to back-end server systems.
-
-I have a proven ability to design and implement scalable, maintainable, and secure software applications that meet and exceed client expectations. I'm passionate about staying up-to-date with the latest industry trends and best practices, ensuring that my code is not only functional but also future-proof. My dedication to clean code and rigorous testing enables me to produce high-quality software that stands the test of time.
-
-I thrive in dynamic environments, where I can leverage my problem-solving skills and creativity to develop innovative solutions. With a commitment to continuous learning and a strong sense of teamwork, I'm ready to contribute my technical expertise to drive your organization's success.
-
-* 🌍  I'm based in Cape Town, South Africa
-* 🖥️  See my portfolio at [Coming Soon](http://www.comingsoon)
-* ✉️  You can contact me at [dfunani@live.co.za](mailto:dfunani@live.co.za)
-* 🚀  I'm currently working on [Maitland Group ZA](http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAQQw7AJahcKEwiQ4cvTn9H5AhUAAAAAHQAAAAAQAg&url=https%3A%2F%2Fwww.maitlandgroup.com%2F&psig=AOvVaw3AJRJlby2w4iVfkz6u7Wsy&ust=1660941514126966)
-* 🧠  I'm learning Kotlin Android Development
-* 🤝  I'm open to collaborating on Web APIs, React Apps, Data Science, Android Mobile Apps and Unity 3D games
-* ⚡  I am a dedicated CHELSEA FOOTBALL CLUB fan. I love gaming and learning new programming languages.
-
-<a href="https://www.github.com/dfunani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dfunani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
-
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=22D3EE&center=false&vCenter=true&width=720&height=40&lines=Delali+Funani;Senior+Software+Engineer;Compilers%2C+tooling%2C+fintech+%26+games" alt="Delali Funani" />
 </p>
 
-### Socials
+Cape Town · accounting graduate turned engineer. I ship fintech platforms by day, and spend nights on languages, local cloud, visual tooling, and games.
 
-<p align="left"> <a href="https://www.github.com/dfunani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/delali-funani-softwareengineer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+<p>
+  <a href="https://github.com/dfunani"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdfunani&query=%24.public_repos&label=public%20repos&logo=github&color=22d3ee&labelColor=0c0a09&logoColor=22d3ee" alt="Public repos" /></a>
+  <a href="https://github.com/dfunani?tab=followers"><img src="https://img.shields.io/github/followers/dfunani?label=followers&logo=github&color=22d3ee&labelColor=0c0a09&logoColor=22d3ee" alt="Followers" /></a>
+  <a href="https://www.linkedin.com/in/delali-funani-softwareengineer/"><img src="https://img.shields.io/badge/LinkedIn-delali--funani-0A66C2?logo=linkedin&logoColor=white&labelColor=0c0a09" alt="LinkedIn" /></a>
+  <a href="mailto:dfunani@live.co.za"><img src="https://img.shields.io/badge/email-dfunani%40live.co.za-22d3ee?logo=maildotru&logoColor=22d3ee&labelColor=0c0a09" alt="Email" /></a>
+</p>
 
-<b>My GitHub Stats</b>
+- **Now:** Senior Software Engineer at [GoTymeX](https://www.linkedin.com/company/lifeatgotymex)
+- **Open to:** APIs, developer tools, React/Next.js, data, mobile, and games
+- **Based in:** Cape Town, South Africa
 
-<a href="http://www.github.com/dfunani"><img src="https://github-readme-stats.vercel.app/api?username=dfunani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dfunani's GitHub stats" /></a>
+## Featured
 
-<a href="http://www.github.com/dfunani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dfunani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+Live pin cards — descriptions, languages, and stars update as the repos do. The set below is rebuilt from GitHub whenever this profile refreshes (new repos show up automatically).
 
-<a href="http://www.github.com/dfunani"><img src="https://activity-graph.herokuapp.com/graph?username=dfunani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/dfunani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfunani&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dfunani/typedantic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=typedantic&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&hide_border=true&locale=en" alt="typedantic" /></a>
 
-<b>Top Repositories</b>
+</td>
+<td width="50%" valign="top">
 
-<div width="100%" align="center"><a href="https://github.com/dfunani/MailSim" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=MailSim&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dfunani/PasswordGenerator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=PasswordGenerator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/dfunani/rusticorn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=rusticorn&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&hide_border=true&locale=en" alt="rusticorn" /></a>
 
-<br /><br /><br /><br /><br />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div width="100%" align="center"><a href="https://github.com/dfunani/MyeBay" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=MyeBay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dfunani/MyDevWiki" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=MyDevWiki&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/dfunani/stackforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=stackforge&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&hide_border=true&locale=en" alt="stackforge" /></a>
 
-### Support Me
+</td>
+<td width="50%" valign="top">
 
-<a href="https://www.buymeacoffee.com/dfunani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://github.com/dfunani/py_vui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=py_vui&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&hide_border=true&locale=en" alt="py_vui" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/dfunani/r_python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=r_python&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&hide_border=true&locale=en" alt="r_python" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/dfunani/r_check"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=r_check&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&hide_border=true&locale=en" alt="r_check" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/dfunani/r_tvui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=r_tvui&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&hide_border=true&locale=en" alt="r_tvui" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/dfunani/pixel_joy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dfunani&repo=pixel_joy&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&hide_border=true&locale=en" alt="pixel_joy" /></a>
+
+</td>
+</tr>
+</table>
+
+## Catalog
+
+### Languages & tooling
+
+| Project | What it is |
+|---|---|
+| **[typedantic](https://github.com/dfunani/typedantic)** · [site](https://typedantic-web.vercel.app) · [typedantic-web](https://github.com/dfunani/typedantic-web) | Pydantic-style validation for TypeScript |
+| **[r_python](https://github.com/dfunani/r_python)** · [site](https://r-python-web.vercel.app) · [r_python_web](https://github.com/dfunani/r_python_web) | Memory-safe, statically typed language with Python-shaped syntax (Rust compiler toolchain) |
+| **[r_check](https://github.com/dfunani/r_check)** · [r_check_web](https://github.com/dfunani/r_check_web) | mypy-compatible Python type checker implemented in Rust |
+| **[rusticorn](https://github.com/dfunani/rusticorn)** | Production-grade ASGI server for Python, written in Rust |
+| **[py_vui](https://github.com/dfunani/py_vui)** · [py_vui_web](https://github.com/dfunani/py_vui_web) | Visual authoring for Python UIs — drag-and-drop editor with PySide6 codegen |
+| **[py_boiler](https://github.com/dfunani/py_boiler)** | PyBoiler is a lightweight Python package that helps developers quickly bootstrap projects by generating ready-to-use boilerplate code. |
+| **[rcmd](https://github.com/dfunani/rcmd)** | Command-line tooling in Rust |
+
+### Cloud, data & infra
+
+| Project | What it is |
+|---|---|
+| **[stackforge](https://github.com/dfunani/stackforge)** · [stackforge_web](https://github.com/dfunani/stackforge_web) | Local AWS cloud emulator for development, testing, and CI |
+| **[r_tvui](https://github.com/dfunani/r_tvui)** · [site](https://r-tvui-web.vercel.app) · [r_tvui_web](https://github.com/dfunani/r_tvui_web) | Terminal-based file explorer in Rust (R-TVUI) |
+| **[deltabase](https://github.com/dfunani/deltabase)** | Database experiment in Rust |
+| **[linux-selfhosting](https://github.com/dfunani/linux-selfhosting)** | This is one continuous homelab path on Ubuntu Server in UTM |
+| **[Linux-Setup](https://github.com/dfunani/Linux-Setup)** | Dedicated documentation on the setting up of Linux OS locally. |
+
+### Products
+
+| Project | What it is |
+|---|---|
+| **[AfroChat](https://github.com/dfunani/AfroChat)** · [WebAfroChat](https://github.com/dfunani/WebAfroChat) · [AndroidAfroChat](https://github.com/dfunani/AndroidAfroChat) · [IOSAfroChat](https://github.com/dfunani/IOSAfroChat) | A fully-featured real-time communication platform built with modern technologies, offering web, iOS, and Android applications. |
+| **[fast_pay](https://github.com/dfunani/fast_pay)** | Mobile payments platform — USSD, wallet, merchant QR, microservices |
+| **[MyDecoder](https://github.com/dfunani/MyDecoder)** · [site](https://my-decoder.vercel.app) | Decodes/Encode data from base64 |
+| **[names-game](https://github.com/dfunani/names-game)** · [site](https://names-game-delta.vercel.app) | Solo vocabulary game — pick a letter, fill every category |
+
+### Games & graphics
+
+| Project | What it is |
+|---|---|
+| **[pixel_joy](https://github.com/dfunani/pixel_joy)** · [site](https://pixel-joy-cyan.vercel.app) · [pixel_joy_cli](https://github.com/dfunani/pixel_joy_cli) | A studio of beautifully crafted common and retro games. One place, every classic worth replaying — pick a game, press start, find your joy. |
+| **[omo-game](https://github.com/dfunani/omo-game)** | Browser game experiment |
+| **[R3D](https://github.com/dfunani/R3D)** | 3D rendering in Rust |
+| **[RenderEngine--3D-Imaging](https://github.com/dfunani/RenderEngine--3D-Imaging)** | Implementing my own simple render engine |
+| **[RenderEngine--2D-Imaging](https://github.com/dfunani/RenderEngine--2D-Imaging)** | Introduction to Ray Tracing: a Simple Method for Creating 2D Images |
+
+### More
+
+| Project | What it is |
+|---|---|
+| **[Advent_of_code](https://github.com/dfunani/Advent_of_code)** | Advent of code |
+| **[afro_llm](https://github.com/dfunani/afro_llm)** | LLM experiments |
+| **[tree-node](https://github.com/dfunani/tree-node)** | Tree / node visualisation |
+| **[software_design](https://github.com/dfunani/software_design)** | Notes and exercises in software design |
+| **[linux-for-dummies](https://github.com/dfunani/linux-for-dummies)** | Linux learning notes |
+
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,rust,ts,go,react,nextjs,kotlin,swift,postgres,docker,linux,aws&perline=12" alt="Python, Rust, TypeScript, Go, React, Next.js, Kotlin, Swift, Postgres, Docker, Linux, AWS" />
+</p>
+
+Python · Rust · TypeScript · Go · Kotlin · Swift · React / Next.js · Postgres · Docker · Linux
+
+## Stats
+
+These cards read GitHub live when the profile is opened, so commit counts, languages, and repo totals move as you push.
+
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dfunani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&ring_color=22d3ee" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfunani&layout=compact&langs_count=8&hide_border=true&title_color=22d3ee&text_color=e7e5e4&bg_color=0c0a09" alt="Top languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dfunani&bg_color=0c0a09&color=e7e5e4&line=22d3ee&point=22d3ee&area=true&hide_border=true&custom_title=Contribution%20graph" alt="Contribution graph" />
+</p>
+
+---
+
+Chelsea fan. Always learning a language. [Say hello →](mailto:dfunani@live.co.za)
+
+<sub>Featured + catalog last refreshed 2026-10-15 12:45 UTC · 42 public repos</sub>
