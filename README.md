@@ -137,7 +137,7 @@ Python · Rust · TypeScript · Go · Kotlin · Swift · React / Next.js · Post
 These cards read GitHub live when the profile is opened, so commit counts, languages, and repo totals move as you push.
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dfunani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&ring_color=22d3ee" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dfunani&show_icons=true&hide_border=true&title_color=22d3ee&text_color=e7e5e4&icon_color=22d3ee&bg_color=0c0a09&ring_color=22d3ee" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfunani&layout=compact&langs_count=8&hide_border=true&title_color=22d3ee&text_color=e7e5e4&bg_color=0c0a09" alt="Top languages" />
 </p>
 
