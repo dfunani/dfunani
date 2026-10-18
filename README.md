@@ -117,9 +117,9 @@ Live pin cards — descriptions, languages, and stars update as the repos do. Th
 
 | Project | What it is |
 |---|---|
+| **[rooted](https://github.com/dfunani/rooted)** · [site](https://rooted-roan.vercel.app) | Work in progress |
 | **[Advent_of_code](https://github.com/dfunani/Advent_of_code)** | Advent of code |
 | **[afro_llm](https://github.com/dfunani/afro_llm)** | LLM experiments |
-| **[tree-node](https://github.com/dfunani/tree-node)** | Tree / node visualisation |
 | **[software_design](https://github.com/dfunani/software_design)** | Notes and exercises in software design |
 | **[linux-for-dummies](https://github.com/dfunani/linux-for-dummies)** | Linux learning notes |
 
@@ -149,4 +149,4 @@ These cards read GitHub live when the profile is opened, so commit counts, langu
 
 Chelsea fan. Always learning a language. [Say hello →](mailto:dfunani@live.co.za)
 
-<sub>Featured + catalog last refreshed 2026-10-15 12:56 UTC · 42 public repos</sub>
+<sub>Featured + catalog last refreshed 2026-10-18 01:47 UTC · 42 public repos</sub>
